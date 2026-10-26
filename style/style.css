@@ -3,6 +3,6 @@
  grid-template-columns:auto auto auto;  
 }
 
-#samp-photos{
-
+#samp-photos img{
+ height: 25vh;
 }
