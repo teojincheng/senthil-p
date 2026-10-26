@@ -6,3 +6,8 @@
 #samp-photos img{
  height: 25vh;
 }
+
+.homepage-outlying-grid{
+display:grid;
+ grid-template-columns:auto auto auto auto;
+}
