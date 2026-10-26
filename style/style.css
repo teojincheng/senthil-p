@@ -7,7 +7,7 @@
  height: 25vh;
 }
 
-.homepage-outlying-grid{
+.gallery-outlying-grid{
 display:grid;
  grid-template-columns:auto auto auto auto;
 }
