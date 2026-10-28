@@ -11,3 +11,7 @@
 display:grid;
  grid-template-columns:auto auto auto auto;
 }
+
+.gallery-outlying-grid img{
+height: 29vh;
+}
